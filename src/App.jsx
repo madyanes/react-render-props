@@ -1,3 +1,5 @@
+/* eslint-disable react/prop-types */
+
 import { useState } from 'react'
 import { faker } from '@faker-js/faker'
 import './styles.css'
